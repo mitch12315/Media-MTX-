@@ -1,0 +1,12 @@
+docker run -it --rm \
+  -p 8554:8554 \
+  -p 1935:1935 \
+  -p 8888:8888 \
+  -p 8889:8889 \
+  -p 8189:8189/udp \
+  -p 8085:8085 \
+  -p 9997:9997 \
+  -e MEDIAMTX_API_URL=http://localhost \
+  -e MEDIAMTX_WEBRTC_URL=http://localhost:8889 \
+  -e MEDIAMTX_HLS_URL=http://localhost:8888 \
+  mediamtx-with-ui

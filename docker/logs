@@ -1,0 +1,78 @@
+##this is the log2025/09/13 22:12:31 INF MediaMTX v1.14.0
+2025/09/13 22:12:31 INF configuration loaded from /mediamtx.yml
+2025/09/13 22:12:31 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/09/13 22:12:31 INF [RTMP] listener opened on :1935
+2025/09/13 22:12:31 INF [HLS] listener opened on :8888
+2025/09/13 22:12:31 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/09/13 22:12:31 INF [SRT] listener opened on :8890 (UDP)
+2025/09/13 22:26:07 INF shutting down gracefully
+2025/09/13 22:26:07 INF [SRT] listener is closing
+2025/09/13 22:26:07 INF [WebRTC] listener is closing
+2025/09/13 22:26:07 INF [HLS] listener is closing
+2025/09/13 22:26:07 INF [RTMP] listener is closing
+2025/09/13 22:26:07 INF [RTSP] listener is closing
+2025/09/13 22:26:07 INF waiting for running hooks
+2025/09/13 22:26:08 INF MediaMTX v1.14.0
+2025/09/13 22:26:08 INF configuration loaded from /mediamtx.yml
+2025/09/13 22:26:08 DEB path manager created
+2025/09/13 22:26:08 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/09/13 22:26:08 INF [RTMP] listener opened on :1935
+2025/09/13 22:26:08 INF [HLS] listener opened on :8888
+2025/09/13 22:26:08 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/09/13 22:26:08 INF [SRT] listener opened on :8890 (UDP)
+2025/09/13 22:26:18 INF shutting down gracefully
+2025/09/13 22:26:18 INF [SRT] listener is closing
+2025/09/13 22:26:18 INF [WebRTC] listener is closing
+2025/09/13 22:26:18 INF [HLS] listener is closing
+2025/09/13 22:26:18 INF [RTMP] listener is closing
+2025/09/13 22:26:18 INF [RTSP] listener is closing
+2025/09/13 22:26:18 DEB path manager is shutting down
+2025/09/13 22:26:18 INF waiting for running hooks
+2025/09/13 22:26:19 INF MediaMTX v1.14.0
+2025/09/13 22:26:19 INF configuration loaded from /mediamtx.yml
+2025/09/13 22:26:19 DEB path manager created
+2025/09/13 22:26:19 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/09/13 22:26:19 INF [RTMP] listener opened on :1935
+2025/09/13 22:26:19 INF [HLS] listener opened on :8888
+2025/09/13 22:26:19 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/09/13 22:26:19 INF [SRT] listener opened on :8890 (UDP)
+2025/09/13 22:26:57 INF shutting down gracefully
+2025/09/13 22:26:57 INF [SRT] listener is closing
+2025/09/13 22:26:57 INF [WebRTC] listener is closing
+2025/09/13 22:26:57 INF [HLS] listener is closing
+2025/09/13 22:26:57 INF [RTMP] listener is closing
+2025/09/13 22:26:57 INF [RTSP] listener is closing
+2025/09/13 22:26:57 DEB path manager is shutting down
+2025/09/13 22:26:57 INF waiting for running hooks
+2025/09/13 22:26:58 INF MediaMTX v1.14.0
+2025/09/13 22:26:58 INF configuration loaded from /mediamtx.yml
+2025/09/13 22:26:58 DEB path manager created
+2025/09/13 22:26:58 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/09/13 22:26:58 INF [RTMP] listener opened on :1935
+2025/09/13 22:26:58 INF [HLS] listener opened on :8888
+2025/09/13 22:26:58 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/09/13 22:26:58 INF [SRT] listener opened on :8890 (UDP)
+2025/09/13 22:27:01 INF shutting down gracefully
+2025/09/13 22:27:01 INF [SRT] listener is closing
+2025/09/13 22:27:01 INF [WebRTC] listener is closing
+2025/09/13 22:27:01 INF [HLS] listener is closing
+2025/09/13 22:27:01 INF [RTMP] listener is closing
+2025/09/13 22:27:01 INF [RTSP] listener is closing
+2025/09/13 22:27:01 DEB path manager is shutting down
+2025/09/13 22:27:01 INF waiting for running hooks
+2025/09/13 22:27:02 INF MediaMTX v1.14.0
+2025/09/13 22:27:02 INF configuration loaded from /mediamtx.yml
+2025/09/13 22:27:02 DEB path manager created
+2025/09/13 22:27:02 INF [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+2025/09/13 22:27:02 INF [RTMP] listener opened on :1935
+2025/09/13 22:27:02 INF [HLS] listener opened on :8888
+2025/09/13 22:27:02 INF [WebRTC] listener opened on :8889 (HTTP), :8189 (ICE/UDP)
+2025/09/13 22:27:02 INF [SRT] listener opened on :8890 (UDP)
+2025/09/13 22:27:35 INF shutting down gracefully
+2025/09/13 22:27:35 INF [SRT] listener is closing
+2025/09/13 22:27:35 INF [WebRTC] listener is closing
+2025/09/13 22:27:35 INF [HLS] listener is closing
+2025/09/13 22:27:35 INF [RTMP] listener is closing
+2025/09/13 22:27:35 INF [RTSP] listener is closing
+2025/09/13 22:27:35 DEB path manager is shutting down
+2025/09/13 22:27:35 INF waiting for running hooks
