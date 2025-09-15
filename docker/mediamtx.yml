@@ -51,7 +51,7 @@ authMethod: internal
 # Internal authentication.
 # list of users.
 authInternalUsers:
-- user: mitch
+- user: testuser
   pass: changeme
   permissions:
   - action: publish
